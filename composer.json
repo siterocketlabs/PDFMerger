@@ -1,9 +1,9 @@
 {
-    "name": "rguedes/pdfmerger",
-    "version": "1.0.4",
+    "name": "siterocketlabs/pdfmerger",
+    "version": "1.0.6",
     "description": "PDFMerger for PHP",
     "keywords": ["PHP", "PDF"],
-    "homepage": "https://github.com/rguedes/PDFMerger",
+    "homepage": "https://github.com/siterocketlabs/PDFMerger",
     "type": "library",
     "license": "LGPL-3.0-or-later",
     "authors": [{
@@ -12,6 +12,9 @@
     },{
         "name": "Rolando Guedes",
         "homepage": "https://github.com/rguedes"
+    },{
+        "name": "Diego Caprioli",
+        "homepage": "https://github.com/diegocaprioli"
     }],
     "require": {
         "php": ">=5.2.0"
