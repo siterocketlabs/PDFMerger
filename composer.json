@@ -1,5 +1,5 @@
 {
-    "name": "siterocketlabs/PDFMerger",
+    "name": "siterocketlabs/pdfmerger",
     "version": "1.0.6",
     "description": "PDFMerger for PHP",
     "keywords": ["PHP", "PDF"],
